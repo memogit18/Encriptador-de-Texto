@@ -1,0 +1,154 @@
+.alura{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 3%;
+    border-radius: 20px;
+}
+
+.titulo{
+    float: inherit;
+    margin-left: 15%;
+    font-size: 40px;
+    color: #0A3871;
+    display: inline-block;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 0px;
+    padding: 0%;
+    background: #F3F5FC;
+}
+.contenedor{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 1px;
+}
+
+.logo{
+    width: 100%;
+    float: left;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height: 60%;
+    border-radius: 15px;
+}
+
+.text-input{
+    float: left;
+    margin-left: 15%;
+    margin-top: 2%;
+    width: 80%;
+    height: 90%;
+    color: darkblue;
+    font-size: 32px;
+    line-height: 48px;
+    border: none;
+    outline: none;
+    background: #fffefe;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+
+.right{
+    float: right;
+    margin-top: 5px;
+    width: 30%;
+    height: 80%;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+#imgDer{
+    margin-top: 5%;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+#texto1{
+    margin-left: 5%;
+    text-align: center;
+    font-size: 25px;
+}
+
+::placeholder{
+    color: #c6d7ec;
+}
+
+#texto2{
+    float: left;
+    margin-left: 5%;
+    text-align: justify;
+    color: #0A3871;
+    width: 90%;
+    height: 30%;
+    border: none;
+    outline: none;
+    font-size: 23px;
+}
+
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #2b74d4;
+    font-weight: 300;
+}
+
+#copiar{
+    margin-left: 25%;
+    margin-top: 50%;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background: #D8DFE8;
+    border-radius: 24px;
+    border-color: #D8DFE8;
+    display: none;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.left-button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.warming{
+    text-align: center;
+    margin-left: 10%;
+    color: #a1bada;
+}
+
+#btn-encriptar{
+    padding: 10px;
+    width: 30%;
+    height: auto;
+    border-radius: 25px;
+    border-color: #0A3871;
+    margin-left: 20%;
+    background: #0A3871;
+    color: #D8DFE8;
+    font-size: 20px;
+}
+
+#btn-desencriptar{
+    padding: 10px;
+    width: 30%;
+    height: 50%;
+    border-radius: 25px;
+    border-color: #a1bada;
+    margin-left: 10%;
+    background: #a1bada;
+    font-size: 20px;
+
+}
